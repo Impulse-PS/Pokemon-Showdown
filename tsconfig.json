@@ -20,7 +20,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Pokemon-Showdown/verifier.js at master · Zarel/Pokemon-Showdown</title>
+  <title>Pokemon-Showdown/tsconfig.json at master · Zarel/Pokemon-Showdown</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -29,10 +29,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/551184?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="Zarel/Pokemon-Showdown" property="og:title" /><meta content="https://github.com/Zarel/Pokemon-Showdown" property="og:url" /><meta content="Pokemon-Showdown - Pokémon battle simulator." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgwMzEyMzY5OmQwNTVmZTdhNGU2MzIzMzc2MGUxNWZjMmJmODUxZmIxOThjNzk4N2Y4MGMwNjIzZWViNTNiOWQ3MWY4NDFkOTA=--f2d098c220c6cca593711ff3eb20d3b7a15ab73d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgwMzEyMzY5OmU1ZjcyYjljMzNhZTQ1ZmM0ZTk3MzNkY2UzNTg0ZTJkMDJhMjNlNzk5YmE5NGMyODBjYWEwMjM0YmZlMmI2Y2M=--a0c36b309122a4ba12fef7699b0dcc74e20e7f1f">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D53B:474A:5592E5B:7B18365:593E7EAC" data-pjax-transient>
+  <meta name="request-id" content="D53B:474A:5592A2D:7B17D31:593E7EA8" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D53B:474A:5592E5B:7B18365:593E7EAC" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="29373427" name="octolytics-actor-id" /><meta content="Impulse-PS" name="octolytics-actor-login" /><meta content="24881181bca2713a4bdf6b0a738ca3eee4493ad9892411fbdf63ec130b8d74b2" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D53B:474A:5592A2D:7B17D31:593E7EA8" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="29373427" name="octolytics-actor-id" /><meta content="Impulse-PS" name="octolytics-actor-login" /><meta content="24881181bca2713a4bdf6b0a738ca3eee4493ad9892411fbdf63ec130b8d74b2" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -57,7 +57,7 @@
   <meta name="user-login" content="Impulse-PS">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZDc2Nzk5MjNjZjg1M2VhMDdlZjQ0ZWE2MDU1M2Y4MWFkYWM5MTY4MGU5YjBhMzk2ZmRlN2VkYzcyMTQ2ODgxM3x7InJlbW90ZV9hZGRyZXNzIjoiNDkuMTUuMTkuMzQiLCJyZXF1ZXN0X2lkIjoiRDUzQjo0NzRBOjU1OTJFNUI6N0IxODM2NTo1OTNFN0VBQyIsInRpbWVzdGFtcCI6MTQ5NzI2Nzg4NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NjAwNWE0MzUyNzQ1YzE4OTA3NWRjZGNmMTc3NmI2OTJlNjBhYTA3MDMwNGI3YzU3ZDAxYjBiYTUxMGQxOWIzNHx7InJlbW90ZV9hZGRyZXNzIjoiNDkuMTUuMTkuMzQiLCJyZXF1ZXN0X2lkIjoiRDUzQjo0NzRBOjU1OTJBMkQ6N0IxN0QzMTo1OTNFN0VBOCIsInRpbWVzdGFtcCI6MTQ5NzI2Nzg4MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
 
   <meta name="html-safe-nonce" content="b08be84ace711618cc5363c25b35bf4ee3bd4e09">
@@ -73,7 +73,7 @@
   <link href="https://github.com/Zarel/Pokemon-Showdown/commits/master.atom" rel="alternate" title="Recent Commits to Pokemon-Showdown:master" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/Zarel/Pokemon-Showdown/blob/master/verifier.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Zarel/Pokemon-Showdown/blob/master/tsconfig.json" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -104,7 +104,7 @@
     
 
       <div class="mobile-banner">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/site/mobile_preference" class="js-mobile-preference-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="37dRxKCpiqAf2DV++EkGzoinkqAxNJpI+1xs/nnVBHgXL3h/aN+7rxIBOCSeo6Ss64uwL1jFTE2xeq7dJleZvg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/site/mobile_preference" class="js-mobile-preference-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vTK2YXMoU2QH/3cALCuNj28vEa8P7x6/IXdy9E3prqd1qp/au15iawomelpKwS/tDAMzIGYeyLprUbDXEmszYQ==" /></div>
           <input type="hidden" name="mobile" value="true">
           <input type="hidden" name="anchor" class="js-mobile-preference-anchor-field">
 
@@ -126,7 +126,7 @@
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/search" class="js-site-search-form" data-scoped-search-url="/Zarel/Pokemon-Showdown/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/Zarel/Pokemon-Showdown/blob/master/verifier.js" class="header-search-scope no-underline">This repository</a>
+        <a href="/Zarel/Pokemon-Showdown/blob/master/tsconfig.json" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -243,7 +243,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ez9gMwg2Ib8vBTsGCFwTlb+6bI8WkX0tQgh+7As8aNZbMchtdUccZz2QY6ObkX45CQT3dL55V/gbf72SlS3+pA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="m4Bl1yJwZZsZbeusGjlVX+Iqww8TWNH753qPZDjwKni7js2JXwFYQwv4swmJ9DjzVJRY9Luw+y6+DUwapuG8Cg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -253,7 +253,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6C5758vzcv2BRMtfUERBrWFQiGplFW4bEJpHxRep+uTIINO5toJPJZPRk/rDiSwB1+4Tkc39RM5J7YS7ibhslg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N5mFnjhXWEOR0eblO+Yy9GUWSGQPIJWcpvm/VgTy0uAXly3ARSZlm4NEvkCoK19Y06jTn6fIv0n/jnwomuNEkg==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -286,7 +286,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FTQZe80AfvgkjRlImyHy+QqgFwJjd4Gi2mYFvtrKVYNtm7cK9cHAd63uO3AaOviQaIFwrmVYo4b+iP6Aq6g0ow==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="3038446" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uKl2k9a4sCJ2F0QEe+K1YUWOn2qKwZHz5XmjlvEAE7TABtji7nkOrf90Zjz6+b8IJ6/4xozus9fBl1iogGJylA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="3038446" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/Zarel/Pokemon-Showdown/subscription"
@@ -361,7 +361,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M6jX2fLajg6n6jntO3KC1DZ2mDDcFUUh7uZLeHqRZRJRg/Axd/gN8PWNPK3Bh2TWdIwDtwF1i3VyeHzSYPwk0w==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="12vouat/sUPsiEZ46LZfbTSocHzAtzZxjopM7kUfHhG1QM9RLl0yvb7vQzgSQ7lvdlLr+x3X+CUSFHtEX3Jf0A==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -375,7 +375,7 @@
           1,159
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BuaxPovDMetGwZghPpDjqA7QjwDADQ3yogZfR0+NZmln0igwpaUsx2TrAMtbk0oLi1STmWLSHH+SdDxohPxRtA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HOjAbWpu5M+vtcRq7g5AKElExkXG1SX2H7D5zeXYQTB93FljRAj5442fXICLDemLzMDa3GQKNHsvwpriLql27Q==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -393,7 +393,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UO6doa7ROiCBitv4l3a3b9WblRuAiuEAtbw7JNoh2dHiEv/gP2RGRCciJNmacehIknlIt5Dw8M3pqLzrt2qayw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CXeTCvM7Hrkj/ahZAfdJFkbN7p/QjwMPJ8qrskdPqTS7i/FLYo5i3YVVV3gM8BYxAS8zM8D1EsJ73ix9KgTqLg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -491,9 +491,9 @@
 
 
     
-  <a href="/Zarel/Pokemon-Showdown/blob/ae2c190c18f602c932a0025ca7ab2b5ed9672ffd/verifier.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/Zarel/Pokemon-Showdown/blob/ae2c190c18f602c932a0025ca7ab2b5ed9672ffd/tsconfig.json" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:12240224060ecee626e596c5d8281cc6 -->
+  <!-- blob contrib key: blob_contributors:v21:6d00af476c731efe72fa9d8e95812281 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -535,7 +535,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/block-bindings/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/block-bindings/tsconfig.json"
                data-name="block-bindings"
                data-skip-pjax="true"
                rel="nofollow">
@@ -545,7 +545,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/log-upgrade/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/log-upgrade/tsconfig.json"
                data-name="log-upgrade"
                data-skip-pjax="true"
                rel="nofollow">
@@ -555,7 +555,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/Zarel/Pokemon-Showdown/blob/master/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/master/tsconfig.json"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -565,7 +565,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/old-seasonals/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/old-seasonals/tsconfig.json"
                data-name="old-seasonals"
                data-skip-pjax="true"
                rel="nofollow">
@@ -575,7 +575,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/past-gens/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/past-gens/tsconfig.json"
                data-name="past-gens"
                data-skip-pjax="true"
                rel="nofollow">
@@ -585,7 +585,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/prototype-party/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/prototype-party/tsconfig.json"
                data-name="prototype-party"
                data-skip-pjax="true"
                rel="nofollow">
@@ -595,7 +595,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/sugar-removal/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/sugar-removal/tsconfig.json"
                data-name="sugar-removal"
                data-skip-pjax="true"
                rel="nofollow">
@@ -605,7 +605,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Zarel/Pokemon-Showdown/blob/typescript-test/verifier.js"
+               href="/Zarel/Pokemon-Showdown/blob/typescript-test/tsconfig.json"
                data-name="typescript-test"
                data-skip-pjax="true"
                rel="nofollow">
@@ -642,12 +642,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/Zarel/Pokemon-Showdown"><span>Pokemon-Showdown</span></a></span></span><span class="separator">/</span><strong class="final-path">verifier.js</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/Zarel/Pokemon-Showdown"><span>Pokemon-Showdown</span></a></span></span><span class="separator">/</span><strong class="final-path">tsconfig.json</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/Zarel/Pokemon-Showdown/contributors/master/verifier.js">
+  <include-fragment class="commit-tease" src="/Zarel/Pokemon-Showdown/contributors/master/tsconfig.json">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -662,18 +662,18 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/Zarel/Pokemon-Showdown/raw/master/verifier.js" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/Zarel/Pokemon-Showdown/blame/master/verifier.js" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/Zarel/Pokemon-Showdown/commits/master/verifier.js" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/Zarel/Pokemon-Showdown/raw/master/tsconfig.json" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/Zarel/Pokemon-Showdown/blame/master/tsconfig.json" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/Zarel/Pokemon-Showdown/commits/master/tsconfig.json" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/edit/master/verifier.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZVRHxSzOkmAHtlfynMNBoevxLNA3Sf6p20acyreqTNo6GmdgRjZ8G6Vnawuv5Xj6RYwdGhaYbymhzchgY8gVxQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/edit/master/tsconfig.json" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="n6OCvHhVVKphKsr96XY52VOdFUDcpEgkXtxIhDAgkDYJFaQLIoArlxF0J34Df4nxEhEVMvYQuwSkDm3eJnrxzA==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/delete/master/verifier.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9znRbW48IX4sOMDWS+PjU+pS0eEJXcBDpVXwYrDPGa/XcIlNQvp+uhw6MHwJV6o/Y/xibkOiXyOqxJy6ojBGMA==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Zarel/Pokemon-Showdown/delete/master/tsconfig.json" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mi4cigqC2EE9xrVvs1rHVatLE+QUsna5fqCFJ4mnua5lcgW4uP4QjOIW+hOM+Dk0dmgAlqGwFT/VHspJBGN9mw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -681,346 +681,95 @@
 </form>  </div>
 
   <div class="file-info">
-      80 lines (64 sloc)
+      21 lines (20 sloc)
       <span class="file-info-divider"></span>
-    2.02 KB
+    457 Bytes
   </div>
 </div>
 
     
 
-  <div itemprop="text" class="blob-wrapper data type-javascript">
+  <div itemprop="text" class="blob-wrapper data type-json">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">/**</span></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">{</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Verifier process</span></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>compilerOptions<span class="pl-pds">&quot;</span></span>: {</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Pokemon Showdown - http://pokemonshowdown.com/</span></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>lib<span class="pl-pds">&quot;</span></span>: [<span class="pl-s"><span class="pl-pds">&quot;</span>es2015<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>es2016.array.include<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>es2017.object<span class="pl-pds">&quot;</span></span>],</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>noEmit<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * This is just an asynchronous implementation of a verifier for a</span></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>target<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>ESNext<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * signed key, because Node.js&#39;s crypto functions are synchronous,</span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>strict<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * strangely, considering how everything else is asynchronous.</span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>allowJs<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>checkJs<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * I wrote this one day hoping it would help with performance, but</span></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">    },</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * I don&#39;t think it had any noticeable effect.</span></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>types<span class="pl-pds">&quot;</span></span>: [<span class="pl-s"><span class="pl-pds">&quot;</span>node<span class="pl-pds">&quot;</span></span>],</td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>include<span class="pl-pds">&quot;</span></span>: [</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * <span class="pl-k">@license</span> <span class="pl-smi">MIT</span> license</span></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./dev-tools/globals.ts<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> */</span></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./sim/dex-data.js<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./sim/dex.js<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&#39;</span>use strict<span class="pl-pds">&#39;</span></span>;</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./sim/prng.js<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./crashlogger.js<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-k">const</span> <span class="pl-c1">crypto</span> <span class="pl-k">=</span> <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>crypto<span class="pl-pds">&#39;</span></span>);</td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./dnsbl.js<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">const</span> <span class="pl-c1">ProcessManager</span> <span class="pl-k">=</span> <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>./process-manager<span class="pl-pds">&#39;</span></span>);</td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>./repl.js<span class="pl-pds">&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">    ]</td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">VerifierManager</span> <span class="pl-k">extends</span> <span class="pl-e">ProcessManager</span> {</td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class="pl-en">onMessageUpstream</span>(<span class="pl-smi">message</span>) {</td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">//</span> Protocol:</span></td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">//</span> success: &quot;[id]|1&quot;</span></td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">//</span> failure: &quot;[id]|0&quot;</span></td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> pipeIndex <span class="pl-k">=</span> <span class="pl-smi">message</span>.<span class="pl-c1">indexOf</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>|<span class="pl-pds">&#39;</span></span>);</td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> id <span class="pl-k">=</span> <span class="pl-k">+</span><span class="pl-smi">message</span>.<span class="pl-c1">substr</span>(<span class="pl-c1">0</span>, pipeIndex);</td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> result <span class="pl-k">=</span> <span class="pl-c1">Boolean</span>(<span class="pl-k">~~</span><span class="pl-smi">message</span>.<span class="pl-c1">slice</span>(pipeIndex <span class="pl-k">+</span> <span class="pl-c1">1</span>));</td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (<span class="pl-c1">this</span>.<span class="pl-smi">pendingTasks</span>.<span class="pl-c1">has</span>(id)) {</td>
-      </tr>
-      <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">this</span>.<span class="pl-smi">pendingTasks</span>.<span class="pl-c1">get</span>(id)(result);</td>
-      </tr>
-      <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">this</span>.<span class="pl-smi">pendingTasks</span>.<span class="pl-c1">delete</span>(id);</td>
-      </tr>
-      <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">this</span>.<span class="pl-en">release</span>();</td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">		}</td>
-      </tr>
-      <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">	}</td>
-      </tr>
-      <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">	<span class="pl-en">onMessageDownstream</span>(<span class="pl-smi">message</span>) {</td>
-      </tr>
-      <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">//</span> protocol:</span></td>
-      </tr>
-      <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">//</span> &quot;[id]|{data, sig}&quot;</span></td>
-      </tr>
-      <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> pipeIndex <span class="pl-k">=</span> <span class="pl-smi">message</span>.<span class="pl-c1">indexOf</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>|<span class="pl-pds">&#39;</span></span>);</td>
-      </tr>
-      <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> id <span class="pl-k">=</span> <span class="pl-smi">message</span>.<span class="pl-c1">substr</span>(<span class="pl-c1">0</span>, pipeIndex);</td>
-      </tr>
-      <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> data <span class="pl-k">=</span> <span class="pl-c1">JSON</span>.<span class="pl-c1">parse</span>(<span class="pl-smi">message</span>.<span class="pl-c1">slice</span>(pipeIndex <span class="pl-k">+</span> <span class="pl-c1">1</span>));</td>
-      </tr>
-      <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">process</span>.<span class="pl-c1">send</span>(id <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&#39;</span>|<span class="pl-pds">&#39;</span></span> <span class="pl-k">+</span> <span class="pl-c1">this</span>.<span class="pl-en">receive</span>(data));</td>
-      </tr>
-      <tr>
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">	}</td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">	<span class="pl-en">receive</span>(<span class="pl-smi">data</span>) {</td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> verifier <span class="pl-k">=</span> <span class="pl-smi">crypto</span>.<span class="pl-en">createVerify</span>(<span class="pl-smi">Config</span>.<span class="pl-smi">loginserverkeyalgo</span>);</td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">		<span class="pl-smi">verifier</span>.<span class="pl-en">update</span>(<span class="pl-smi">data</span>.<span class="pl-c1">data</span>);</td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">let</span> success <span class="pl-k">=</span> <span class="pl-c1">false</span>;</td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">try</span> {</td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">			success <span class="pl-k">=</span> <span class="pl-smi">verifier</span>.<span class="pl-en">verify</span>(<span class="pl-smi">Config</span>.<span class="pl-smi">loginserverpublickey</span>, <span class="pl-smi">data</span>.<span class="pl-smi">sig</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>hex<span class="pl-pds">&#39;</span></span>);</td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">		} <span class="pl-k">catch</span> (e) {}</td>
-      </tr>
-      <tr>
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> success <span class="pl-k">?</span> <span class="pl-c1">1</span> <span class="pl-k">:</span> <span class="pl-c1">0</span>;</td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">	}</td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exports</span>.<span class="pl-smi">VerifierManager</span> <span class="pl-k">=</span> VerifierManager;</td>
-      </tr>
-      <tr>
-        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-k">const</span> <span class="pl-c1">PM</span> <span class="pl-k">=</span> <span class="pl-c1">exports</span>.<span class="pl-c1">PM</span> <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">VerifierManager</span>({</td>
-      </tr>
-      <tr>
-        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line">	execFile<span class="pl-k">:</span> <span class="pl-c1">__filename</span>,</td>
-      </tr>
-      <tr>
-        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line">	maxProcesses<span class="pl-k">:</span> <span class="pl-c1">global</span>.<span class="pl-smi">Config</span> <span class="pl-k">?</span> <span class="pl-smi">Config</span>.<span class="pl-smi">verifierprocesses</span> <span class="pl-k">:</span> <span class="pl-c1">1</span>,</td>
-      </tr>
-      <tr>
-        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">	isChatBased<span class="pl-k">:</span> <span class="pl-c1">false</span>,</td>
-      </tr>
-      <tr>
-        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line">});</td>
-      </tr>
-      <tr>
-        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> (<span class="pl-c1">process</span>.<span class="pl-smi">send</span> <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">module</span> <span class="pl-k">===</span> <span class="pl-c1">process</span>.<span class="pl-smi">mainModule</span>) {</td>
-      </tr>
-      <tr>
-        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">//</span> This is a child process!</span></td>
-      </tr>
-      <tr>
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">global</span>.<span class="pl-smi">Config</span> <span class="pl-k">=</span> <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>./config/config<span class="pl-pds">&#39;</span></span>);</td>
-      </tr>
-      <tr>
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>./repl<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">start</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>verifier<span class="pl-pds">&#39;</span></span>, <span class="pl-smi">cmd</span> <span class="pl-k">=&gt;</span> <span class="pl-c1">eval</span>(cmd));</td>
-      </tr>
-      <tr>
-        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="LC72" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">process</span>.<span class="pl-en">on</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>message<span class="pl-pds">&#39;</span></span>, <span class="pl-smi">message</span> <span class="pl-k">=&gt;</span> <span class="pl-c1">PM</span>.<span class="pl-en">onMessageDownstream</span>(message));</td>
-      </tr>
-      <tr>
-        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">process</span>.<span class="pl-en">on</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>disconnect<span class="pl-pds">&#39;</span></span>, () <span class="pl-k">=&gt;</span> <span class="pl-c1">process</span>.<span class="pl-en">exit</span>());</td>
-      </tr>
-      <tr>
-        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="LC75" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td id="LC76" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">exports</span>.<span class="pl-en">verify</span> <span class="pl-k">=</span> <span class="pl-k">function</span> (<span class="pl-smi">data</span>, <span class="pl-smi">signature</span>) {</td>
-      </tr>
-      <tr>
-        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td id="LC78" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> <span class="pl-c1">PM</span>.<span class="pl-c1">send</span>({data<span class="pl-k">:</span> data, sig<span class="pl-k">:</span> signature});</td>
-      </tr>
-      <tr>
-        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td id="LC79" class="blob-code blob-code-inner js-file-line">};</td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1068,7 +817,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.22755s from unicorn-1236126009-3j695">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.19578s from github-fe-235f48c.cp1-iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
